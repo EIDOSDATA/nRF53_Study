@@ -1,0 +1,13 @@
+{
+  "nrf-connect.topdir": "${nrf-connect.sdk:1.9.1}",
+  "nrf-connect.toolchain.path": "${nrf-connect.toolchain:1.9.1}",
+  "nrf-connect.applications": [
+    "c:\\Users\\eidos\\Desktop\\NRF_TEST\\blinky",
+    "c:\\Users\\eidos\\Desktop\\NRF_TEST\\console_usb"
+  ],
+  "files.associations": {
+    "spi.h": "c",
+    "gpio.h": "c",
+    "dma.h": "c"
+  }
+}

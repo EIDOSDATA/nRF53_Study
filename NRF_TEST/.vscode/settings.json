@@ -1,0 +1,7 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\blinky",
+        "${workspaceFolder}\\cdc_acm_composite",
+        "${workspaceFolder}\\console_usb"
+    ]
+}
