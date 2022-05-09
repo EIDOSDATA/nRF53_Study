@@ -1,0 +1,2 @@
+osource "c:/Users/eidos/Desktop/NRF52840/led_pwm/boards/shields/*/Kconfig.shield"
+osource "C:/Users/eidos/ncs/v1.9.1/nrf/boards/shields/*/Kconfig.shield"
